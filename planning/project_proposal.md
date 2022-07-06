@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Michelle Fox-Romero, Adriana Morales, Monica Kirabo, Cynthia Delira**
 
 ## Problem Statement
 
