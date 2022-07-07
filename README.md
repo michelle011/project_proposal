@@ -4,11 +4,11 @@
 
 SITE Course Year: **2022**
 
-Cohort: **Add Company Sponsor Name**
+Cohort: **Salesforce**
 
-Team Member Names:**Cynthia Delira, Monica Kirabo, Adriana Morales, Michelle Fox-Romero**
+Team Member Names: **Cynthia Delira, Monica Kirabo, Adriana Morales, Michelle Fox-Romero**
 
-Mentors Names: **Insert Professional Mentor Names**
+Mentors Names: **Puneet Monga, Lakshmanan Chinnaveerappan**
 
 Project Code Repository Links
 
